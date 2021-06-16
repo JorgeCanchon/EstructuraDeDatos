@@ -1,0 +1,12 @@
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\bin\Debug\net5.0\Grafos.deps.json
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\bin\Debug\net5.0\Grafos.dll
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\bin\Debug\net5.0\ref\Grafos.dll
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\bin\Debug\net5.0\Grafos.pdb
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\obj\Debug\net5.0\Grafos.csprojAssemblyReference.cache
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\obj\Debug\net5.0\Grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\obj\Debug\net5.0\Grafos.AssemblyInfoInputs.cache
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\obj\Debug\net5.0\Grafos.AssemblyInfo.cs
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\obj\Debug\net5.0\Grafos.csproj.CoreCompileInputs.cache
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\obj\Debug\net5.0\Grafos.dll
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\obj\Debug\net5.0\ref\Grafos.dll
+C:\Users\jorge.canchon\Documents\Soluciones\EstructurasDeDatos\Grafos\obj\Debug\net5.0\Grafos.pdb

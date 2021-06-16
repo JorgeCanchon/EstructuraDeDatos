@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Grafos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Grafos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Grafos.dll": {}
+        }
+      },
+      "LinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grafos/1.0.0": {
+      "type": "project",
+      "path": "../Grafos/Grafos.csproj",
+      "msbuildProject": "../Grafos/Grafos.csproj"
+    },
+    "LinkedList/1.0.0": {
+      "type": "project",
+      "path": "../LinkedList/LinkedList.csproj",
+      "msbuildProject": "../LinkedList/LinkedList.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Grafos >= 1.0.0",
+      "LinkedList >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jorge.canchon\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jorge.canchon\\Documents\\Soluciones\\EstructurasDeDatos\\EstructurasDeDatos\\EstructurasDeDatos.csproj",
+      "projectName": "EstructurasDeDatos",
+      "projectPath": "C:\\Users\\jorge.canchon\\Documents\\Soluciones\\EstructurasDeDatos\\EstructurasDeDatos\\EstructurasDeDatos.csproj",
+      "packagesPath": "C:\\Users\\jorge.canchon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jorge.canchon\\Documents\\Soluciones\\EstructurasDeDatos\\EstructurasDeDatos\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jorge.canchon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://fuji-v01/SincoERP/_packaging/GTHNugets/nuget/v3/index.json": {},
+        "https://fuji.sincoerp.com/SincoERP/_packaging/ERP4.0/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\jorge.canchon\\Documents\\Soluciones\\EstructurasDeDatos\\Grafos\\Grafos.csproj": {
+              "projectPath": "C:\\Users\\jorge.canchon\\Documents\\Soluciones\\EstructurasDeDatos\\Grafos\\Grafos.csproj"
+            },
+            "C:\\Users\\jorge.canchon\\Documents\\Soluciones\\EstructurasDeDatos\\LinkedList\\LinkedList.csproj": {
+              "projectPath": "C:\\Users\\jorge.canchon\\Documents\\Soluciones\\EstructurasDeDatos\\LinkedList\\LinkedList.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
